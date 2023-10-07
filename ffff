@@ -1,0 +1,9 @@
+[code]
+OS: Ubuntu 22.04.3 LTS (ubuntu:GNOME/ubuntu)
+Word size of FreeCAD: 64-bit
+Version: 0.21.1.Unknown
+Build type: Unknown
+Python 3.10.12, Qt 6.2.4, Coin 4.0.0, Vtk 7.1.1, OCC 7.5.1
+Locale: English/United States (en_US)
+[/code]
+
